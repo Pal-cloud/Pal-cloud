@@ -48,6 +48,6 @@ Trabajé con metodologías ágiles, git colaborativo y proyectos reales. Aprend�
 
 ¿Te interesa el código accesible, los proyectos bonitos o simplemente intercambiar memes tech?  
 ¡Estoy abierta a conectar, colaborar o compartir bugs existenciales! 😄
-📎 [Conecta conmigo en LinkedIn]((https://www.linkedin.com/in/palomagsal/))
+📎 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/palomagsal/)
 
 
