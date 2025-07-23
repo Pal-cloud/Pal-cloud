@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Pal
 
 > Filóloga y intérprete de lengua de signos reconvertida en desarrolladora frontend.  
-> Hoy desarrollo interfaces accesibles, colaboro en proyectos en equipo y aprendo algo nuevo cada día —a veces con un bug incluido de regalo 🎁🐞.
+> Hoy desarrollo interfaces accesibles, colaboro en proyectos en equipo y aprendo algo nuevo cada día, a veces con un bug incluido de regalo 🎁🐞.
 
 ---
 
