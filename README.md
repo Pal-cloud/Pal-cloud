@@ -1,5 +1,9 @@
 # 👋 ¡Hola! Soy Pal
 
+<div align="center">
+  <img src="./public/logo-pal.png" alt="Logo Pal" width="200"/>
+</div>
+
 > Filóloga y intérprete de lengua de signos reconvertida en desarrolladora frontend.  
 > Hoy desarrollo interfaces accesibles, colaboro en proyectos en equipo y aprendo algo nuevo cada día, a veces con un bug incluido de regalo 🎁🐞.
 
