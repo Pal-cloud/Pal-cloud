@@ -1,11 +1,18 @@
-# 👋 ¡Hola! Soy Pal
-
 <div align="center">
-  <img src="./public/logo-pal.png" alt="Logo Pal" width="200"/>
+  
+# 👋 ¡Hola! Soy 
+  
+<img src="./public/logo-pal.png" alt="Pal - Frontend Developer" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: float 3s ease-in-out infinite;"/>
+
+### 🎨 Frontend Developer | 🌐 Accessibility Advocate | 🤖 AI Explorer
+
 </div>
 
-> Filóloga y intérprete de lengua de signos reconvertida en desarrolladora frontend.  
-> Hoy desarrollo interfaces accesibles, colaboro en proyectos en equipo y aprendo algo nuevo cada día, a veces con un bug incluido de regalo 🎁🐞.
+<div align="center">
+  <em>Filóloga y intérprete de lengua de signos reconvertida en desarrolladora frontend.</em><br>
+  <strong>Hoy desarrollo interfaces accesibles, colaboro en proyectos en equipo y aprendo algo nuevo cada día,<br>
+  a veces con un bug incluido de regalo 🎁🐞.</strong>
+</div>
 
 ---
 
