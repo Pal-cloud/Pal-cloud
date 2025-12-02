@@ -39,15 +39,17 @@ Trabajé con metodologías ágiles, git colaborativo y proyectos reales. Aprend�
 
 <div align="center">
 
-![Pal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pal-cloud&show_icons=true&theme=radical&cache_seconds=86400)
+<!-- GitHub Streak Stats - Alternativa más estable -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pal-cloud&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pal-cloud&layout=compact&theme=radical&cache_seconds=86400)
+<!-- GitHub Profile Summary Cards - Alternativa visual atractiva -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pal-cloud&theme=radical)
 
-<!-- Alternativa en caso de fallo del servicio principal -->
-<!--
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pal-cloud&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pal-cloud&layout=compact&theme=radical)
--->
+<!-- Top Languages con diferente servicio -->
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pal-cloud&theme=radical)
+
+<!-- Stats básicas con servicio alternativo -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pal-cloud&theme=radical)
 
 </div>
 
