@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy 
+# 👋 ¡Hola! Soy Pal
   
 <img src="./public/logo-pal.png" alt="Pal - Frontend Developer" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); animation: float 3s ease-in-out infinite;"/>
 
