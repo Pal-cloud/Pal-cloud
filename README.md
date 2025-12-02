@@ -37,10 +37,19 @@ Trabajé con metodologías ágiles, git colaborativo y proyectos reales. Aprend�
 
 ## 📊 GitHub Stats
 
-<!-- Reemplaza TU_USUARIO con tu nombre real de usuario en GitHub -->
-![Pal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pal-cloud&show_icons=true&theme=radical)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pal-cloud&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Pal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pal-cloud&show_icons=true&theme=radical&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pal-cloud&layout=compact&theme=radical&cache_seconds=86400)
+
+<!-- Alternativa en caso de fallo del servicio principal -->
+<!--
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pal-cloud&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pal-cloud&layout=compact&theme=radical)
+-->
+
+</div>
 
 ---
 
