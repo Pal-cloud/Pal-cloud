@@ -28,9 +28,12 @@
 ## 🧭 Formación
 
 🎓 **Factoria F5** – Escuela digital solidaria e inclusiva  
-🗓️ Formación Full Stack Developer | Año: 2025
+🗓️ **Full Stack Developer** | 2025 ✅  
+🗓️ **Inteligencia Artificial y Python** | 2025 📚 *En curso*
 
-Trabajé con metodologías ágiles, git colaborativo y proyectos reales. Aprendí tanto de mis errores como de mis compañeros —a veces más. 🚀
+Trabajé con metodologías ágiles, git colaborativo y proyectos reales en el bootcamp Full Stack. Aprendí tanto de mis errores como de mis compañeros —a veces más. 🚀
+
+Actualmente profundizando en IA y Python: desde fundamentos de programación hasta machine learning, deep learning y procesamiento de lenguaje natural. ¡Explorando el mundo de los datos y algoritmos inteligentes! 🤖🐍
 
 ---
 
