@@ -54,7 +54,7 @@ Actualmente profundizando en IA y Python: desde fundamentos de programación has
 <div align="center">
 
 <!-- GitHub Streak Stats - Alternativa más estable -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pal-cloud&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pal-cloud&theme=radical&cache_bust=2026)
 
 <!-- GitHub Profile Summary Cards - Alternativa visual atractiva -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pal-cloud&theme=radical)
